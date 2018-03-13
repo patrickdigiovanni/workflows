@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "Showcasing workflows",
   "main": "index.js",
-  
   "repository": {
     "type": "git",
     "url": "?.git"
   },
   "author": "Patrick DiGiovanni",
-  
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
